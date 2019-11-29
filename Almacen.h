@@ -1,5 +1,5 @@
 //
-// Created by saidchoquehuanca on 28/11/2019.
+// Created by francomeza on 28/11/2019.
 //
 
 #ifndef PROYECTO_RIVAS_ALMACEN_H
