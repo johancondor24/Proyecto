@@ -1,0 +1,11 @@
+5
+1 1
+2 2
+3 3
+4 4
+5 5
+4
+1 Ingreso 4 3 Discos
+2 Retiro 5 6 Libros
+1 Ingreso 5 6 Libros
+3 Ingreso 5 6 Cuadernos

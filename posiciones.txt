@@ -1,0 +1,5 @@
+******** POSICIONES ***********
+Discos esta en la Fila : 4 y en la Columna : 3 con cantidad de : 0
+Libros esta en la Fila : 5 y en la Columna : 6 con cantidad de : 0
+Libros esta en la Fila : 5 y en la Columna : 6 con cantidad de : 2
+Cuadernos esta en la Fila : 5 y en la Columna : 6 con cantidad de : 0
